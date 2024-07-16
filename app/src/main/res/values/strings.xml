@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TravelPlanner</string>
+    <string-array name="destinations_array">
+        <item>France</item>
+        <item>USA</item>
+        <item>Japan</item>
+        <item>Australia</item>
+    </string-array>
+    <string-array name="activities_array">
+        <item>Sightseeing</item>
+        <item>Hiking</item>
+        <item>Shopping</item>
+        <item>Dining</item>
+    </string-array>
+</resources>
